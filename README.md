@@ -1,4 +1,4 @@
-### Dataset is Vietnamese Students’ Feedback Corpus (UIT-VSFC)
+### Dataset is from paper: [UIT-VSFC: Vietnamese Students’ Feedback Corpus for Sentiment Analysis](https://ieeexplore.ieee.org/document/8573337)
 
-Paper: [UIT-VSFC: Vietnamese Students’ Feedback Corpus for Sentiment Analysis](https://ieeexplore.ieee.org/document/8573337)
+
 
